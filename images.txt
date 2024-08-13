@@ -5,3 +5,4 @@
 #支持指定架构
 --platform=linux/arm64 nginx
 --platform=linux/arm64 nextcloud
+--platform=linux/arm64 tailscale
