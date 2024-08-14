@@ -7,4 +7,4 @@
 --platform=linux/arm64 nextcloud
 #--platform=linux/arm64 tailscale
 --platform=linux/arm64 mysql
---platform=linux/arm64 docker-cloudflare-ddns
+--platform=linux/arm64 oznu/cloudflare-ddns 
